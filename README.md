@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Algos70
-- 👀 I’m interested in game developing.
-- 🌱 I’m currently learning Computer Sciences, C# and java.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning Computer Sciences, and introduction to Web development.
 - 💞️ I’m looking to collaborate on (Will be edited)
 - 📫 How to reach me => draknes.gamin70@gmail.com
 
